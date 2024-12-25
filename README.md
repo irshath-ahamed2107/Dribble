@@ -132,10 +132,9 @@ Publish the website in the LocalHost.
 </html>
 ```
 
-## OUTPUT:
-
-![alt text](<proj 10 output 2.png>) 
+## OUTPUT: 
 ![alt text](<proj 10 output 1.png>)
+![alt text](<proj 10 output 2.png>)
 
 
 ## RESULT:
